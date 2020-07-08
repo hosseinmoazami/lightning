@@ -1,6 +1,6 @@
 # lightning
-simple code to change specific color in an image
+A simple code to change specific a color in an image
 
 # How To Run
-simple put lightning.jpg and Lightning.py file in same place and run the code
-at the end result.jpg will be prooduce by different color of lightning
+simply put lightning.jpg and Lightning.py file in the same place and run the code
+in the end, result.jpg will be produced by a different color of lightning
